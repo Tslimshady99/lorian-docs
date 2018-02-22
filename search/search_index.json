@@ -2,23 +2,33 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Welcome to the Lorian documentation!\n\n\nWhat is Lorian?\n\n\nLorian is a multifunction Discord bot system intended to be able to perform various tasks, ranging from easy server moderation (Kick, ban, mute) to having fun (8ball, memes) in your Discord server. It will have an extensive per-server customization system with various settings.\n\n\nBrief history\n\n\nLorian was started as a fork of \nWildbeast\n. The project started in 2017, and was stoped for 6 months till 2018 with the rewrite Verison. \nThe first version of lorian was coded in JavaScript, The new version is in Python(Discord.py Rewrite). The project currently has 2 developers.\n\n\nMain features\n\n\nThese features are or will be available in Lorian\n\n\n\n\nFun commands such as 8ball, kill, slap, sleep, and more\n\n\nTags - Create, edit, share anything\n\n\nModeration commands like kick, ban and so forth.\n\n\nServer utilities like welcome messages, server and user info and so forth.\n\n\nServer Specific Commands (must submit commands) (Coming soon.)\n\n\nUseful advice.\n\n\nCat and dog photos and facts\n\n\nJokes\n\n\nClassy insults and strokes.\n\n\n\n\nDiscord server\n\n\nWe run a two Discord server in which you can test Lorian's functionality in our own sandbox. Feel free to come over to chat, meet fellow coders and users alike or just hang out with the community! Click the banner below to get started.", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/#welcome-to-the-lorian-documentation", 
+            "text": "", 
+            "title": "Welcome to the Lorian documentation!"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/#what-is-lorian", 
+            "text": "Lorian is a multifunction Discord bot system intended to be able to perform various tasks, ranging from easy server moderation (Kick, ban, mute) to having fun (8ball, memes) in your Discord server. It will have an extensive per-server customization system with various settings.", 
+            "title": "What is Lorian?"
         }, 
         {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#brief-history", 
+            "text": "Lorian was started as a fork of  Wildbeast . The project started in 2017, and was stoped for 6 months till 2018 with the rewrite Verison. \nThe first version of lorian was coded in JavaScript, The new version is in Python(Discord.py Rewrite). The project currently has 2 developers.", 
+            "title": "Brief history"
+        }, 
+        {
+            "location": "/#main-features", 
+            "text": "These features are or will be available in Lorian   Fun commands such as 8ball, kill, slap, sleep, and more  Tags - Create, edit, share anything  Moderation commands like kick, ban and so forth.  Server utilities like welcome messages, server and user info and so forth.  Server Specific Commands (must submit commands) (Coming soon.)  Useful advice.  Cat and dog photos and facts  Jokes  Classy insults and strokes.", 
+            "title": "Main features"
+        }, 
+        {
+            "location": "/#discord-server", 
+            "text": "We run a two Discord server in which you can test Lorian's functionality in our own sandbox. Feel free to come over to chat, meet fellow coders and users alike or just hang out with the community! Click the banner below to get started.", 
+            "title": "Discord server"
         }
     ]
 }
