@@ -12,6 +12,8 @@ theme:
   palette:
     primary: 'grey'
     accent: 'red'
+  feature:
+    tabs: true
 
 markdown_extensions:
   - admonition
