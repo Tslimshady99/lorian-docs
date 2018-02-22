@@ -1,1 +1,34 @@
-site_name: My Docs
+site_name: 'Lorian Documentation'
+site_description: 'Welcome to the Lorian documentation'
+site_author: 'Tforcum'
+site_url: 'https://docs.thesharks.xyz'
+site_favicon: 'img/favicon.ico'
+repo_name: 'Lorian-bot/docs'
+repo_url: 'https://github.com/TheSharks/WildBeastDocs'
+edit_uri: edit/review/docs/
+copyright: 'Copyright © 2018 Tforcum, Lorian, Bot Dev. "Discord", "Discord App", and any associated logos are registered trademarks of Hammer & Chisel, inc.'
+theme:
+  name: 'material'
+extra:
+  feature:
+    tabs: true
+  logo: 'img/logo.png'
+  palette:
+    primary: 'grey'
+    accent: 'red'
+  font:
+    text: 'Droid Sans'
+    font: 'Droid Sans Mono'
+  social:
+    - type: 'github'
+      link: 'https://github.com/lorian-bot'
+    - type: 'dicord'
+
+markdown_extensions:
+  - admonition
+  - meta
+  - codehilite
+plugins:
+    - search
+pages:
+  - Home index.md
