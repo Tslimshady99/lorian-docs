@@ -2,7 +2,6 @@ site_name: 'Lorian Documentation'
 site_description: 'Welcome to the Lorian documentation'
 site_author: 'Tforcum'
 site_url: 'https://docs.thesharks.xyz'
-site_favicon: 'img/favicon.ico'
 repo_name: 'Lorian-bot/docs'
 repo_url: 'https://github.com/TheSharks/WildBeastDocs'
 edit_uri: edit/review/docs/
@@ -12,7 +11,7 @@ theme:
 extra:
   feature:
     tabs: true
-  logo: 'img/logo.png'
+  logo: '/docs/img/logo.png'
   palette:
     primary: 'grey'
     accent: 'red'
@@ -22,7 +21,10 @@ extra:
   social:
     - type: 'github'
       link: 'https://github.com/lorian-bot'
-    - type: 'dicord'
+    - type: 'discord'
+      link: 'https://discord.gg/6cqSJTh'
+    - type: 'discord'
+      link: 'https://discord.gg/WK5EZWN'
 
 markdown_extensions:
   - admonition
@@ -31,4 +33,4 @@ markdown_extensions:
 plugins:
     - search
 pages:
-  - Home index.md
+  - Home: 'index.md'
