@@ -34,3 +34,4 @@ plugins:
     - search
 pages:
   - Home: 'index.md'
+  - Discord: 'https://discord.gg/6cqSJTh'
