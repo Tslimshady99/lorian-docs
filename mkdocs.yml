@@ -25,4 +25,8 @@ plugins:
 pages:
   - Home: 'index.md'
   - Commands:
-    - Default: 'commands/'
+    - Default: 'commands/default.md'
+    - Fun: 'commands/fun.md'
+    - Moderation: 'commands/mod.md'
+    - Setting: 'commands/set.md'
+    - Custom: 'commands/custom.md'
