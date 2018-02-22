@@ -1,17 +1,33 @@
-# Welcome to MkDocs
+# Welcome to the Lorian documentation! 
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+## What is Lorian?
 
-## Commands
+Lorian is a multifunction Discord bot system intended to be able to perform various tasks, ranging from easy server moderation \(Kick, ban, mute\) to having fun \(8ball, memes\) in your Discord server. It will have an extensive per-server customization system with various settings.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## Brief history
 
-## Project layout
+Lorian was started as a fork of [Wildbeast](http://thesharks.xyz/). The project started in 2017, and was stoped for 6 months till 2018 with the rewrite Verison. 
+The first version of lorian was coded in JavaScript, The new version is in Python(Discord.py Rewrite). The project currently has 2 developers.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Main features
+
+These features are or will be available in Lorian
+
+* Fun commands such as 8ball, kill, slap, sleep, and more
+* Tags - Create, edit, share anything
+* Moderation commands like kick, ban and so forth.
+* Server utilities like welcome messages, server and user info and so forth.
+* Server Specific Commands (must submit commands) (Coming soon.)
+* Useful advice.
+* Cat and dog photos and facts
+* Jokes
+* Classy insults and strokes.
+
+## Discord server
+
+We run a two Discord server in which you can test Lorian's functionality in our own sandbox. Feel free to come over to chat, meet fellow coders and users alike or just hang out with the community! Click the banner below to get started.
+
+<a href="https://discord.gg/6cqSJTh"><img src="https://discordapp.com/api/guilds/361260253439983629/widget.png?style=banner2" alt="Discord server"></a>
+
+<a href="https://discord.gg/WK5EZWN"><img src="https://discordapp.com/api/guilds/379461989874794499/widget.png?style=banner2" alt="Discord server"></a>
+
