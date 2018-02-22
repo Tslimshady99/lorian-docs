@@ -1,9 +1,9 @@
 site_name: 'Lorian Documentation'
 site_description: 'Welcome to the Lorian documentation'
 site_author: 'Tforcum'
-site_url: 'https://docs.thesharks.xyz'
+site_url: 'https://docs.tforcum.me'
 repo_name: 'Lorian-bot/docs'
-repo_url: 'https://github.com/TheSharks/WildBeastDocs'
+repo_url: 'https://github.com/lorian-bot/docs'
 edit_uri: edit/review/docs/
 copyright: 'Copyright © 2018 Tforcum, Lorian, Bot Dev. "Discord", "Discord App", and any associated logos are registered trademarks of Hammer & Chisel, inc.'
 theme:
