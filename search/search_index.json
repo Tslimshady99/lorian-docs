@@ -29,6 +29,31 @@
             "location": "/#discord-server", 
             "text": "We run a two Discord server in which you can test Lorian's functionality in our own sandbox. Feel free to come over to chat, meet fellow coders and users alike or just hang out with the community! Click the banner below to get started.", 
             "title": "Discord server"
+        }, 
+        {
+            "location": "/commands/default/", 
+            "text": "", 
+            "title": "Default"
+        }, 
+        {
+            "location": "/commands/fun/", 
+            "text": "", 
+            "title": "Fun"
+        }, 
+        {
+            "location": "/commands/mod/", 
+            "text": "", 
+            "title": "Moderation"
+        }, 
+        {
+            "location": "/commands/set/", 
+            "text": "", 
+            "title": "Setting"
+        }, 
+        {
+            "location": "/commands/custom/", 
+            "text": "", 
+            "title": "Custom"
         }
     ]
 }
