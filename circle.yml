@@ -10,7 +10,7 @@ dependencies:
     - pip install -r requirements.txt
 test:
   override:
-    - exit 0 # We don't use CI to test
+    - exit 0
 compile:
   override:
     - mkdocs build
@@ -19,7 +19,7 @@ deployment:
     branch: master
     commands:
     - git config user.email 25397933+Tslimshady99@users.noreply.github.com
-    - mkdocs gh-deploy
+    - mkdocs gh-deploy --force -b gh-pages
 experimental:
   notify:
     branches:
