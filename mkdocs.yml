@@ -7,8 +7,7 @@ repo_url: 'https://github.com/lorian-bot/docs'
 edit_uri: edit/master/docs/
 remote_branch: gh-pages
 copyright: 'Copyright © 2018 Tforcum, Lorian, Bot Dev. "Discord", "Discord App", and any associated logos are registered trademarks of Hammer & Chisel, inc.'
-theme:
-  name: 'material'
+theme: 'material'
 extra:
   feature:
     tabs: true
