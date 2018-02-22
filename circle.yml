@@ -19,7 +19,7 @@ deployment:
     branch: master
     commands:
     - git config user.email 25397933+Tslimshady99@users.noreply.github.com
-    - mkdocs gh-deploy --force -b gh-pages
+    - mkdocs gh-deploy --force
 experimental:
   notify:
     branches:
