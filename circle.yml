@@ -15,7 +15,7 @@ compile:
   override:
     - mkdocs build
 deployment:
-  production:
+  master:
     branch: master
     commands:
     - git config user.email 25397933+Tslimshady99@users.noreply.github.com
