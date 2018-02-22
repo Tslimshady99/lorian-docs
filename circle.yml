@@ -18,8 +18,7 @@ deployment:
   production:
     branch: master
     commands:
-    - git config user.name "Tristian Forcum"
-    - git config user.email tslimshady99@hotmail.com
+    - git config user.email 25397933+Tslimshady99@users.noreply.github.com
     - mkdocs gh-deploy
 experimental:
   notify:
