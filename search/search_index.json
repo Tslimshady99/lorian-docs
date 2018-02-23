@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to the Lorian documentation!\n\n\nWhat is Lorian?\n\n\nLorian is a multifunction Discord bot system intended to be able to perform various tasks, ranging from easy server moderation (Kick, ban, mute) to having fun (8ball, memes) in your Discord server. It will have an extensive per-server customization system with various settings.\n\n\nBrief history\n\n\nLorian was started as a fork of \nWildbeast\n. The project started in 2017, and was stoped for 6 months till 2018 with the rewrite Verison. \nThe first version of lorian was coded in JavaScript, The new version is in Python(Discord.py Rewrite). The project currently has 2 developers.\n\n\nMain features\n\n\nThese features are or will be available in Lorian\n\n\n\n\nFun commands such as 8ball, kill, slap, sleep, and more\n\n\nTags - Create, edit, share anything\n\n\nModeration commands like kick, ban and so forth.\n\n\nServer utilities like welcome messages, server and user info and so forth.\n\n\nServer Specific Commands (must submit commands) (Coming soon.)\n\n\nUseful advice.\n\n\nCat and dog photos and facts\n\n\nJokes\n\n\nClassy insults and strokes.\n\n\n\n\nDiscord server\n\n\nWe run a two Discord server in which you can test Lorian's functionality in our own sandbox. Feel free to come over to chat, meet fellow coders and users alike or just hang out with the community! Click the banner below to get started.", 
+            "text": "Welcome to the Lorian documentation!\n\n\nWhat is Lorian?\n\n\nLorian is a multifunction Discord bot system intended to be able to perform various tasks, ranging from easy server moderation (Kick, ban, mute) to having fun (8ball, memes) in your Discord server. It will have an extensive per-server customization system with various settings.\n\n\nStats\n\n\n \n \n \n\n\nBrief history\n\n\nLorian was started as a fork of \nWildbeast\n. The project started in 2017, and was stoped for 6 months till 2018 with the rewrite Verison. \nThe first version of lorian was coded in JavaScript, The new version is in Python(Discord.py Rewrite). The project currently has 2 developers.\n\n\nMain features\n\n\nThese features are or will be available in Lorian\n\n\n\n\nFun commands such as 8ball, kill, slap, sleep, and more\n\n\nTags - Create, edit, share anything\n\n\nModeration commands like kick, ban and so forth.\n\n\nServer utilities like welcome messages, server and user info and so forth.\n\n\nServer Specific Commands (must submit commands) (Coming soon.)\n\n\nUseful advice.\n\n\nCat and dog photos and facts\n\n\nJokes\n\n\nClassy insults and strokes.\n\n\n\n\nDiscord server\n\n\nWe run two Discord server in which you can test Lorian's functionality in our own sandbox. Feel free to come over to chat, meet fellow coders and users alike or just hang out with the community! Click the banner below to get started.", 
             "title": "Home"
         }, 
         {
@@ -16,6 +16,11 @@
             "title": "What is Lorian?"
         }, 
         {
+            "location": "/#stats", 
+            "text": "", 
+            "title": "Stats"
+        }, 
+        {
             "location": "/#brief-history", 
             "text": "Lorian was started as a fork of  Wildbeast . The project started in 2017, and was stoped for 6 months till 2018 with the rewrite Verison. \nThe first version of lorian was coded in JavaScript, The new version is in Python(Discord.py Rewrite). The project currently has 2 developers.", 
             "title": "Brief history"
@@ -27,7 +32,7 @@
         }, 
         {
             "location": "/#discord-server", 
-            "text": "We run a two Discord server in which you can test Lorian's functionality in our own sandbox. Feel free to come over to chat, meet fellow coders and users alike or just hang out with the community! Click the banner below to get started.", 
+            "text": "We run two Discord server in which you can test Lorian's functionality in our own sandbox. Feel free to come over to chat, meet fellow coders and users alike or just hang out with the community! Click the banner below to get started.", 
             "title": "Discord server"
         }, 
         {
