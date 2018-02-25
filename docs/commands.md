@@ -16,7 +16,7 @@ Usage with <> are required, [] are optional.
 | ---- | ----------- | ----- | ------------------- |
 | Invite | Invite me to your server | None | None |
 | ram | Check my ram usage | None | None |
-| submit | Submit ideas or bugs to a server | <idea/bug>\|\[text\]| |
+| submit | Submit ideas or bugs to a server | <idea or bug>\|\[text\]| |
 | idea | Submit ideas or bugs for me | None | None |
 | ping | Check the bot's connection speed | None | None |
 | prefix | Find out my prefix | None | None |
