@@ -1,7 +1,8 @@
 #Command Reference
 This is the command reference for Lorian Version 1.6. You can find more elaborative information here on each of the commands currently implemented.
 
-!!! tip If you have a need for any further info, you can send the message {prefix}help <command> to the bot to get info about the command.
+!!! tip
+    If you have a need for any further info, you can send the message {prefix}help <command> to the bot to get info about the command.
 
 The prefix is not specified in this reference. You have to apply your own prefix to the commands. If you don't know the prefix, type `@lorian prefix` in the server you're using.
 
