@@ -33,7 +33,7 @@ Usage with <> are required, [] are optional.
 | kill (coming soon) | Kill a given user | <user\> | None|
 | noscope (coming soon) | Noscope a given user | <user\> | None |
 | lenny (coming soon) | I'll give you a lenny face | None | None |
-| nuke (coming soon) | Nuke a given user | <user> | None |
+| nuke (coming soon) | Nuke a given user | <user\> | None |
 | sleep (coming soon) | I'll tell a user to go to sleep | <user\> | None |
 
 ###Tag Commands
@@ -76,6 +76,7 @@ Reply and close has a special perm setup, If a user is either the author, agent 
 
 | Name | Description | Usage | Required permission |
 | ---- | ----------- | ----- | ------------------- |
+| set | Gives setting help| None | manage_guild |
 | set log | Turn logs on or off | \[on/off\] | manage_guild |
 | set log-ch | Set the log channel where logs are sent to | #channel | manage_guild |
 | set submit-ch | Sets the channel where ideas / bugs go | #channel | manage_guild |
@@ -83,3 +84,5 @@ Reply and close has a special perm setup, If a user is either the author, agent 
 | set ticketmsg-ch | Set where ticket messages go from reply | #channel | manage_guild |
 | set logs | Set which logging events are turned on or off | <option\|on/off\> | manage_guild |
 | set prefix | Set my prefix in a server | <text\> | manage_guild |
+
+To get all options for `set logs` leave it blank.
