@@ -36,29 +36,29 @@
             "title": "Discord server"
         }, 
         {
-            "location": "/commands/default/", 
-            "text": "", 
-            "title": "Default"
+            "location": "/commands/", 
+            "text": "Command Reference\n\n\nThis is the command reference for Lorian. You can find more elaborative information here on each of the commands currently implemented.\n\n\n!!! tip If you have a need for any further info, you can send the message {prefix}help \n to the bot to get info about the command.\n\n\nThe prefix is not specified in this reference. You have to apply your own prefix to the commands. If you don't know the prefix, type \n@lorian prefix\n in the server you're using.\n\n\nAnother thing to note is that some commands will have an empty \nUsage\n field on this page. This means that the command takes no arguments and is accepted as such.\n\n\nUsage with \n are required, [] are optional.\n\n\nSome Commands do not require special permissions which is why some are empty.\n\n\nCommand reference\n\n\nGeneral Commands\n\n\n\n\n\n\n\n\nName\n\n\nDescription\n\n\nUsage\n\n\nRequired permission\n\n\n\n\n\n\n\n\n\n\nInvite\n\n\nInvite me to your server\n\n\n\n\n\n\n\n\n\n\nram\n\n\nCheck my ram usage\n\n\n\n\n\n\n\n\n\n\nsubmit\n\n\nSubmit ideas or bugs to a server\n\n\n [text]\n\n\n\n\n\n\n\n\nidea\n\n\nSubmit ideas or bugs for me\n\n\n\n\n\n\n\n\n\n\nping\n\n\nCheck the bot's connection speed\n\n\n\n\n\n\n\n\n\n\nprefix\n\n\nFind out my prefix", 
+            "title": "Command Reference"
         }, 
         {
-            "location": "/commands/fun/", 
-            "text": "", 
-            "title": "Fun"
+            "location": "/commands/#command-reference", 
+            "text": "This is the command reference for Lorian. You can find more elaborative information here on each of the commands currently implemented.  !!! tip If you have a need for any further info, you can send the message {prefix}help   to the bot to get info about the command.  The prefix is not specified in this reference. You have to apply your own prefix to the commands. If you don't know the prefix, type  @lorian prefix  in the server you're using.  Another thing to note is that some commands will have an empty  Usage  field on this page. This means that the command takes no arguments and is accepted as such.  Usage with   are required, [] are optional.  Some Commands do not require special permissions which is why some are empty.", 
+            "title": "Command Reference"
         }, 
         {
-            "location": "/commands/mod/", 
+            "location": "/commands/#command-reference_1", 
             "text": "", 
-            "title": "Moderation"
+            "title": "Command reference"
         }, 
         {
-            "location": "/commands/set/", 
-            "text": "", 
-            "title": "Setting"
+            "location": "/commands/#general-commands", 
+            "text": "Name  Description  Usage  Required permission      Invite  Invite me to your server      ram  Check my ram usage      submit  Submit ideas or bugs to a server   [text]     idea  Submit ideas or bugs for me      ping  Check the bot's connection speed      prefix  Find out my prefix", 
+            "title": "General Commands"
         }, 
         {
-            "location": "/commands/custom/", 
+            "location": "/custom_commands/", 
             "text": "", 
-            "title": "Custom"
+            "title": "Custom Commands"
         }
     ]
 }
