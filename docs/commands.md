@@ -9,16 +9,14 @@ Another thing to note is that some commands will have an empty `Usage` field on 
 
 Usage with <> are required, [] are optional.
 
-Some Commands do not require special permissions which is why some are empty.
-
 ##Command reference
 ###General Commands
 
 | Name | Description | Usage | Required permission |
 | ---- | ----------- | ----- | ------------------- |
-|Invite|Invite me to your server| | |
-|ram|Check my ram usage| | |
-|submit|Submit ideas or bugs to a server| <idea/bug>\|\[text\]| |
-|idea|Submit ideas or bugs for me| | |
-|ping|Check the bot's connection speed| | |
-|prefix|Find out my prefix| | |
+| Invite | Invite me to your server | None | None |
+| ram | Check my ram usage | None | None |
+| submit | Submit ideas or bugs to a server | <idea/bug>\|\[text\]| |
+| idea | Submit ideas or bugs for me | None | None |
+| ping | Check the bot's connection speed | None | None |
+| prefix | Find out my prefix | None | None |
