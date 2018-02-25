@@ -1,7 +1,7 @@
 #Command Reference
 This is the command reference for Lorian Version 1.6. You can find more elaborative information here on each of the commands currently implemented.
 
-!!! tip
+??? tip
     If you have a need for any further info, you can send the message {prefix}help <command> to the bot to get info about the command.
 
 The prefix is not specified in this reference. You have to apply your own prefix to the commands. If you don't know the prefix, type `@lorian prefix` in the server you're using.
@@ -59,8 +59,9 @@ Usage with <> are required, [] are optional.
 | ticket reply | Reply to a ticket | <ticket id\> <text\> | None |
 | ticket join | Join a ticket as an agent | <ticket id\> | manage_messages |
 
-Tickets must be setup be for using. Tickets also will only work in dms, except reply.
-Reply and close has a special perm setup, If a user is either the author, agent or someone with manage_guild they may close or reply.
+??? note
+    Tickets must be setup be for using. Tickets also will only work in a server, except reply.
+    Reply and close has a special perm setup, If a user is either the author, agent or someone with manage_guild they may close or reply.
 
 ###Moderation Commands
 
