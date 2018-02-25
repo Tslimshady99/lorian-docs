@@ -582,19 +582,19 @@
 <tr>
 <td>say</td>
 <td>make me say something.</td>
-<td><text></td>
+<td>&lt;text></td>
 <td>None</td>
 </tr>
 <tr>
 <td>sayembed (coming soon)</td>
 <td>make me say something in a embed</td>
-<td><text></td>
+<td>&lt;text></td>
 <td>None</td>
 </tr>
 <tr>
 <td>tf</td>
 <td>Translate something in Tringlish</td>
-<td><text></td>
+<td>&lt;text></td>
 <td>None</td>
 </tr>
 <tr>
@@ -606,19 +606,19 @@
 <tr>
 <td>slap (coming soon)</td>
 <td>Slap a given user</td>
-<td><user></td>
+<td>&lt;user></td>
 <td>None</td>
 </tr>
 <tr>
 <td>kill (coming soon)</td>
 <td>Kill a given user</td>
-<td><user></td>
+<td>&lt;user></td>
 <td>None</td>
 </tr>
 <tr>
 <td>noscope (coming soon)</td>
 <td>Noscope a given user</td>
-<td><user></td>
+<td>&lt;user></td>
 <td>None</td>
 </tr>
 <tr>
@@ -636,7 +636,7 @@
 <tr>
 <td>sleep (coming soon)</td>
 <td>I'll tell a user to go to sleep</td>
-<td><user></td>
+<td>&lt;user></td>
 <td>None</td>
 </tr>
 </tbody>
@@ -661,37 +661,37 @@
 <tr>
 <td>tag new</td>
 <td>create a new tag</td>
-<td><tag name></td>
+<td>&lt;tag name></td>
 <td>None</td>
 </tr>
 <tr>
 <td>tag del</td>
 <td>Delete one of you're tags</td>
-<td><tag></td>
+<td>&lt;tag></td>
 <td>None</td>
 </tr>
 <tr>
 <td>tag edit</td>
 <td>Edit one of you're tags</td>
-<td><tag></td>
+<td>&lt;tag></td>
 <td>None</td>
 </tr>
 <tr>
 <td>tag find</td>
 <td>Find a tag of someones</td>
-<td><tag></td>
+<td>&lt;tag></td>
 <td>None</td>
 </tr>
 <tr>
 <td>tag list</td>
 <td>List all of you're or someones tags</td>
+<td>&lt;tag></td>
 <td>None</td>
-<td></td>
 </tr>
 <tr>
 <td>tag raw</td>
 <td>Get raw tag info</td>
-<td><tag></td>
+<td>&lt;tag></td>
 <td>None</td>
 </tr>
 </tbody>
@@ -716,25 +716,25 @@
 <tr>
 <td>ticket create</td>
 <td>Create a ticket for the server you are in</td>
-<td>&lt;text</td>
-<td>priority&gt;</td>
+<td>&lt;text|priority></td>
+<td>None</td>
 </tr>
 <tr>
 <td>ticket close</td>
 <td>Close your ticket</td>
-<td><ticket id></td>
+<td>&lt;ticket id></td>
 <td>None</td>
 </tr>
 <tr>
 <td>ticket reply</td>
 <td>Reply to a ticket</td>
-<td><ticket id> <text></td>
+<td>&lt;ticket id> &lt;text></td>
 <td>None</td>
 </tr>
 <tr>
 <td>ticket join</td>
 <td>Join a ticket as an agent</td>
-<td><ticket id></td>
+<td>&lt;ticket id></td>
 <td>manage_messages</td>
 </tr>
 </tbody>
@@ -755,19 +755,19 @@ Reply and close has a special perm setup, If a user is either the author, agent 
 <tr>
 <td>kick</td>
 <td>I'll kick the given users</td>
-<td><users></td>
+<td>&lt;users></td>
 <td>kick_members</td>
 </tr>
 <tr>
 <td>ban</td>
 <td>I'll ban the given users</td>
-<td><users></td>
+<td>&lt;users></td>
 <td>ban_members</td>
 </tr>
 <tr>
 <td>clear</td>
 <td>I'll remove messages matching the specified criteria</td>
-<td>[user] <amount></td>
+<td>[user] &lt;amount></td>
 <td>manage_messages</td>
 </tr>
 <tr>
@@ -779,13 +779,13 @@ Reply and close has a special perm setup, If a user is either the author, agent 
 <tr>
 <td>mute</td>
 <td>Mute a user for a set amount of time</td>
-<td><user(s)>[time]</td>
+<td>&lt;user(s)>[time]</td>
 <td>manage_messages</td>
 </tr>
 <tr>
 <td>unmute</td>
 <td>Unmute a muted user</td>
-<td><user(s)></td>
+<td>&lt;user(s)></td>
 <td>manage_messages</td>
 </tr>
 </tbody>
@@ -815,7 +815,7 @@ Reply and close has a special perm setup, If a user is either the author, agent 
 </tr>
 <tr>
 <td>set submit-ch</td>
-<td>Sets the channel where idea / bugs go</td>
+<td>Sets the channel where ideas / bugs go</td>
 <td>#channel</td>
 <td>manage_guild</td>
 </tr>
@@ -834,13 +834,13 @@ Reply and close has a special perm setup, If a user is either the author, agent 
 <tr>
 <td>set logs</td>
 <td>Set which logging events are turned on or off</td>
-<td>&lt;option</td>
-<td>on/off&gt;</td>
+<td>&lt;option|on/off></td>
+<td>manage_guild</td>
 </tr>
 <tr>
 <td>set prefix</td>
 <td>Set my prefix in a server</td>
-<td><text></td>
+<td>&lt;text></td>
 <td>manage_guild</td>
 </tr>
 </tbody>
