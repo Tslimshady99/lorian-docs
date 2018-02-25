@@ -18,7 +18,7 @@ Some Commands do not require special permissions which is why some are empty.
 | ---- | ----------- | ----- | ------------------- |
 |Invite|Invite me to your server| | |
 |ram|Check my ram usage| | |
-|submit|Submit ideas or bugs to a server|<idea/bug> [text]| |
+|submit|Submit ideas or bugs to a server| <idea/bug>\|\[text\]| |
 |idea|Submit ideas or bugs for me| | |
 |ping|Check the bot's connection speed| | |
 |prefix|Find out my prefix| | |
