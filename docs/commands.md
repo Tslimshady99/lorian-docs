@@ -11,6 +11,7 @@ Another thing to note is that some commands will have an empty `Usage` field on 
 Usage with <> are required, [] are optional.
 
 ##Command reference
+
 ###General Commands
 
 | Name | Description | Usage | Required permission |
