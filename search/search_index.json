@@ -87,7 +87,7 @@
         }, 
         {
             "location": "/emojilist/", 
-            "text": "Emoji List\n\n\n\n\n\n\n\n\nName\n\n\nid\n\n\nimg\n\n\n\n\n\n\n\n\n\n\n:HeckOff:", 
+            "text": "Emoji List\n\n\n\n\n\n\n\n\nName\n\n\nguild\n\n\nimg\n\n\n\n\n\n\n\n\n\n\n:HeckOff:\n\n\nDiscord Bots", 
             "title": "EmojiList"
         }
     ]
