@@ -29,3 +29,4 @@ pages:
   - Commands:
     - Command Reference: 'commands.md'
     - Custom Commands: 'custom_commands.md'
+  - EmojiList: 'emojilist.md'
