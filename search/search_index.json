@@ -84,6 +84,11 @@
             "location": "/custom_commands/", 
             "text": "", 
             "title": "Custom Commands"
+        }, 
+        {
+            "location": "/emojilist/", 
+            "text": "Emoji List\n\n\n\n\n\n\n\n\nName\n\n\nid\n\n\nimg\n\n\n\n\n\n\n\n\n\n\n:HeckOff:", 
+            "title": "EmojiList"
         }
     ]
 }
