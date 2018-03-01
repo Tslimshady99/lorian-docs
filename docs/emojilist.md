@@ -1,7 +1,7 @@
 Emoji List
 
 | Name | Img |
-| ---- | -- | ----- |
+| ---- | --- |
 | :HeckOff: | <img src="https://cdn.discordapp.com/emojis/230064150712156161.png?v=1" width="20px" height="20px"> |
 | :MarioFP: | <img src="https://cdn.discordapp.com/emojis/230102243951509504.png?v=1" width="20px" height="20px"> |
 | :RIP: | <img src="https://cdn.discordapp.com/emojis/230102265808027648.png?v=1" width="20px" height="20px"> |
