@@ -56,5 +56,7 @@ Emoji List
 | :calp: | <img src="https://cdn.discordapp.com/emojis/400152361647079424.png?v=1" width="40px" height="40px"> |
 | :updating: | <img src="https://cdn.discordapp.com/emojis/403035325242540032.gif?v=1" width="40px" height="40px"> |
 | :cursor: | <img src="https://cdn.discordapp.com/emojis/404001393360502805.gif?v=1" width="40px" height="40px"> |
+| ---- | --- |
+| | <img src="" width="40px" height="40px">  |
 
 Note: These emojis come from guilds Lorian is in. If You are a owner of one of the images and would like them removed from this list please contact us @ `support@tforcum.me` with subject emote removal | docs.
