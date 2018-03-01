@@ -5,7 +5,7 @@ Emoji List
 | :HeckOff: | <img src="https://cdn.discordapp.com/emojis/230064150712156161.png?v=1" width="20px" height="20px"> |
 | :MarioFP: | <img src="https://cdn.discordapp.com/emojis/230102243951509504.png?v=1" width="20px" height="20px"> |
 | :RIP: | <img src="https://cdn.discordapp.com/emojis/230102265808027648.png?v=1" width="20px" height="20px"> |
-| :abal: | Discord Bots | <img src="https://cdn.discordapp.com/emojis/230102369998864384.png?v=1" width="20px" height="20px"> |
+| :abal: | <img src="https://cdn.discordapp.com/emojis/230102369998864384.png?v=1" width="20px" height="20px"> |
 | :eyesLeft: | <img src="https://cdn.discordapp.com/emojis/230104082218483712.png?v=1" width="20px" height="20px"> |
 | :eyesFlipped: | <img src="https://cdn.discordapp.com/emojis/230104082424004608.png?v=1" width="20px" height="20px"> |
 | :eyesRight: | <img src="https://cdn.discordapp.com/emojis/230104083204276224.png?v=1" width="20px" height="20px"> |
