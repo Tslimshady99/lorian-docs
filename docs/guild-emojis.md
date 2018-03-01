@@ -56,10 +56,10 @@
 | :calp: | <img src="https://cdn.discordapp.com/emojis/400152361647079424.png?v=1" width="40px" height="40px"> |
 | :updating: | <img src="https://cdn.discordapp.com/emojis/403035325242540032.gif?v=1" width="40px" height="40px"> |
 | :cursor: | <img src="https://cdn.discordapp.com/emojis/404001393360502805.gif?v=1" width="40px" height="40px"> |
-| :cloudbleed: | <img src="" width="40px" height="40px">  |
-| :tickYes: | <img src="" width="40px" height="40px">  |
-| :tickNo: | <img src="" width="40px" height="40px">  |
-| :download: | <img src="" width="40px" height="40px">  |
+| :cloudbleed: | <img src="https://cdn.discordapp.com/emojis/286575873887436800.png?v=1" width="40px" height="40px">  |
+| :tickYes: | <img src="https://cdn.discordapp.com/emojis/315009125694177281.png?v=1" width="40px" height="40px">  |
+| :tickNo: | <img src="https://cdn.discordapp.com/emojis/315009174163685377.png?v=1" width="40px" height="40px">  |
+| :download: | <img src="https://cdn.discordapp.com/emojis/316264057659326464.png?v=1" width="40px" height="40px">  |
 | :helioBANNED: | <img src="https://cdn.discordapp.com/emojis/407985614789541888.png?v=1" width="100px" height="25px">  |
 | :helioTRIGGERED: | <img src="https://cdn.discordapp.com/emojis/407985615313960960.png?v=1" width="100px" height="25px">  |
 | :helioCOFFEE: | <img src="https://cdn.discordapp.com/emojis/407991503227584514.png?v=1" width="100px" height="25px>  |
