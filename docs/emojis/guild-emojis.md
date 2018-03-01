@@ -67,6 +67,5 @@
 | :helioNOPE: | <img src="https://cdn.discordapp.com/emojis/407992926627692546.png?v=1" width="100px" height="25px>  |
 | :helioHYPE: | <img src="https://cdn.discordapp.com/emojis/407993261848920094.png?v=1" width="100px" height="25px>  |
 
-
 Note: These emojis come from guilds Lorian is in. If You are a owner of one of the images and would like them removed from this list please contact us @ `support@tforcum.me` with subject `emote removal | docs`.
 Also some emojis may appear in other list as well.
