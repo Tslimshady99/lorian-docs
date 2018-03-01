@@ -31,4 +31,21 @@ pages:
     - Custom Commands: 'custom_commands.md'
   - Emojis:
     - Guild Emotes: 'guild-emojis.md'
-    - Emoji Servers: 'emojiservers.md'
+    - Emoji Servers:
+      - List: 'serverlist.md'
+      - servers:
+        - Lorian: 'bd-lorian.md'
+        - Main: 'emoji-main.md'
+        - Material: 'emoji-material.md'
+        - Random: 'emoji-random.md'
+        - Random 2: 'emoji-random2.md'
+        - Animals: 'emoji-animals.md'
+        - Weapons: 'emoji-weapons.md'
+        - Money: 'emoji-money.md'
+        - CatBlob: 'emoji-catblob.md'
+        - CatBlob 2: 'emoji-catblob2.md'
+        - CatBlob 3: 'emoji-catblob3.md'
+        - CatBlob 4: 'emoji-catblob4.md'
+        - Kat: 'emoji-kat.md'
+        - Blobs: 'emoji-blobs.md'
+        - Blobs 2: 'emoji-blobs2.md'
