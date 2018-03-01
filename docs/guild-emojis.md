@@ -1,4 +1,4 @@
-Emoji List
+#Guild Emojis
 
 | Name | Img |
 | ---- | --- |
