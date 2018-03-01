@@ -59,6 +59,9 @@ Also some emojis may appear in other list as well.
 | :calp: | <img src="https://cdn.discordapp.com/emojis/400152361647079424.png?v=1" width="40px" height="40px"> |
 | :updating: | <img src="https://cdn.discordapp.com/emojis/403035325242540032.gif?v=1" width="40px" height="40px"> |
 | :cursor: | <img src="https://cdn.discordapp.com/emojis/404001393360502805.gif?v=1" width="40px" height="40px"> |
+
+| Name | Img |
+| ---- | --- |
 | :cloudbleed: | <img src="https://cdn.discordapp.com/emojis/286575873887436800.png?v=1" width="40px" height="40px"> |
 | :tickYes: | <img src="https://cdn.discordapp.com/emojis/315009125694177281.png?v=1" width="40px" height="40px"> |
 | :tickNo: | <img src="https://cdn.discordapp.com/emojis/315009174163685377.png?v=1" width="40px" height="40px"> |
