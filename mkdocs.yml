@@ -30,7 +30,7 @@ pages:
     - Command Reference: 'commands.md'
     - Custom Commands: 'custom_commands.md'
   - Emojis:
-    - Guild Emotes: 'emojis/guild-emojis.md'
+    - Guild Emojis: 'emojis/guildemojis.md'
     - Emoji Servers:
       - List: 'emojis/serverlist.md'
       - servers:
