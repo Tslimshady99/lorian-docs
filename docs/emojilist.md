@@ -45,9 +45,9 @@ Emoji List
 | :twitter: | <img src="https://cdn.discordapp.com/emojis/314349922877046786.png?v=1" width="40px" height="40px"> |
 | :youtube: | <img src="https://cdn.discordapp.com/emojis/314349922885566475.png?v=1" width="40px" height="40px"> |
 | :battlenet: | <img src="https://cdn.discordapp.com/emojis/314349923006939136.png?v=1" width="40px" height="40px"> |
-| :steam: | <img src="https://cdn.discordapp.com/emojis/314349923006939136.png?v=1" width="40px" height="40px"> |
+| :steam: | <img src="https://cdn.discordapp.com/emojis/314349923044687872.png?v=1" width="40px" height="40px"> |
 | :soundcloud: | <img src="https://cdn.discordapp.com/emojis/314349923090825216.png?v=1" width="40px" height="40px"> |
-| :reddit: | <img src="https://cdn.discordapp.com/emojis/314349923090825216.png?v=1" width="40px" height="40px"> |
+| :reddit: | <img src="https://cdn.discordapp.com/emojis/314349923103670272.png?v=1" width="40px" height="40px"> |
 | :skype: | <img src="https://cdn.discordapp.com/emojis/314349923107602432.png?v=1" width="40px" height="40px"> |
 | :ytgaming: | <img src="https://cdn.discordapp.com/emojis/314349923132899338.png?v=1" width="40px" height="40px"> |
 | :typingstatus: | <img src="https://cdn.discordapp.com/emojis/393836741272010752.gif?v=1" width="40px" height="40px"> |
