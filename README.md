@@ -1,4 +1,4 @@
-![banner](img/banner.png)
+![banner](docs/img/banner.png)
 # Welcome to the Lorian documentation! 
 
 ## What is Lorian?
@@ -8,6 +8,7 @@ Lorian is a multifunction Discord bot system intended to be able to perform vari
 ### Stats
 
 [![Discord Bots](https://discordbots.org/api/widget/status/405845656188747796.svg?noavatar=true)](https://discordbots.org/bot/405845656188747796) [![Discord Bots](https://discordbots.org/api/widget/servers/405845656188747796.svg?noavatar=true)](https://discordbots.org/bot/405845656188747796) [![Discord Bots](https://discordbots.org/api/widget/upvotes/405845656188747796.svg?noavatar=true)](https://discordbots.org/bot/405845656188747796) [![Discord Bots](https://discordbots.org/api/widget/lib/405845656188747796.svg?noavatar=true)](https://discordbots.org/bot/405845656188747796)
+[![CircleCI](https://circleci.com/gh/Tslimshady99/docs.svg?style=svg)](https://circleci.com/gh/Tslimshady99/docs)
 
 ## Brief history
 
