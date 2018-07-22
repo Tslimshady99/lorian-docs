@@ -33,7 +33,5 @@ These features are or will be available in Lorian
 
 We run two Discord server in which you can test Lorian's functionality in our own sandbox. Feel free to come over to chat, meet fellow coders and users alike or just hang out with the community! Click the banner below to get started.
 
-<a href="https://discord.gg/6cqSJTh"><img src="https://discordapp.com/api/guilds/361260253439983629/widget.png?style=banner2" alt="Discord server"></a>
-
 <a href="https://discord.gg/WK5EZWN"><img src="https://discordapp.com/api/guilds/379461989874794499/widget.png?style=banner2" alt="Discord server"></a>
 
