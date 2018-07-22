@@ -1,44 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
      <loc>https://docs.tforcum.me/</loc>
-     <lastmod>2018-03-21</lastmod>
+     <lastmod>2018-07-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-        
     <url>
      <loc>https://docs.tforcum.me/commands/</loc>
-     <lastmod>2018-03-21</lastmod>
+     <lastmod>2018-07-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://docs.tforcum.me/custom_commands/</loc>
-     <lastmod>2018-03-21</lastmod>
+     <lastmod>2018-07-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
      <loc>https://docs.tforcum.me/emojis/guildemojis/</loc>
-     <lastmod>2018-03-21</lastmod>
+     <lastmod>2018-07-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>https://docs.tforcum.me</loc>
-     <lastmod></lastmod>
+     <loc>https://docs.tforcum.me/emojis/serverlist/</loc>
+     <lastmod>2018-07-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
+    <url>
+     <loc>https://docs.tforcum.me/emojis/servers/bd-lorian/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.tforcum.me/emojis/servers/emoji-main/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.tforcum.me/emojis/servers/emoji-material/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.tforcum.me/emojis/servers/emoji-random/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.tforcum.me/emojis/servers/emoji-random2/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.tforcum.me/emojis/servers/emoji-animals/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.tforcum.me/emojis/servers/emoji-weapons/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.tforcum.me/emojis/servers/emoji-money/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.tforcum.me/emojis/servers/emoji-catblob/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.tforcum.me/emojis/servers/emoji-catblob2/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.tforcum.me/emojis/servers/emoji-catblob3/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.tforcum.me/emojis/servers/emoji-catblob4/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.tforcum.me/emojis/servers/emoji-kat/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.tforcum.me/emojis/servers/emoji-blobs/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.tforcum.me/emojis/servers/emoji-blobs2/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
 </urlset>
