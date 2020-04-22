@@ -1,45 +1,44 @@
   
 version: 2
-  docs-build-test:
-    docker:
-      - image: anthonyz/python3-node8:latest
-    steps:
-      - checkout
-      - run:
-          name: Register Python alias for compatibility
-          command: alias python='python3'
-      - run:
-          name: Install Python dependencies
-          command: python3 -m pip install --upgrade -r requirements.txt
-      - run:
-          name: Install Node dependencies
-          command: npm install
-      - run:
-          name: Build docs
-          command: npm run build
-
-  docs-deploy:
-    docker:
-      - image: anthonyz/python3-node8:latest
-    steps:
-      - checkout
-      - run:
-          name: Register Python alias for compatibility
-          command: alias python='python3'
-      - run:
-          name: Install Python dependencies
-          command: python3 -m pip install --upgrade -r requirements.txt
-      - run:
-          name: Install Node dependencies
-          command: npm install
-      - run:
-          name: Build docs
-          command: npm run build
-      - run:
-          name: Deploy docs
-          command: |
-            git config user.email 25397933+Tslimshady99@users.noreply.github.com
-            python3 -m mkdocs gh-deploy
+docs-build-test:
+  docker:
+    - image: anthonyz/python3-node8:latest
+  steps:
+    - checkout
+    - run:
+        name: Register Python alias for compatibility
+        command: alias python='python3'
+    - run:
+        name: Install Python dependencies
+        command: python3 -m pip install --upgrade -r requirements.txt
+    - run:
+        name: Install Node dependencies
+        command: npm install
+    - run:
+        name: Build docs
+        command: npm run build
+docs-deploy:
+  docker:
+    - image: anthonyz/python3-node8:latest
+  steps:
+    - checkout
+    - run:
+        name: Register Python alias for compatibility
+        command: alias python='python3'
+    - run:
+        name: Install Python dependencies
+        command: python3 -m pip install --upgrade -r requirements.txt
+    - run:
+        name: Install Node dependencies
+        command: npm install
+    - run:
+        name: Build docs
+        command: npm run build
+    - run:
+        name: Deploy docs
+        command: |
+          git config user.email 25397933+Tslimshady99@users.noreply.github.com
+          python3 -m mkdocs gh-deploy
 
 workflows:
   version: 2
