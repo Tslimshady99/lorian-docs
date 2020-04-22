@@ -40,3 +40,15 @@ version: 2
           command: |
             git config user.email 25397933+Tslimshady99@users.noreply.github.com
             python3 -m mkdocs gh-deploy
+
+workflows:
+  version: 2
+  docs:
+    jobs:
+      - docs-build-test
+      - docs-deploy:
+          requires:
+            - docs-build-test
+          filters:
+            branches:
+              only: master
