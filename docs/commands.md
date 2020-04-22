@@ -1,29 +1,29 @@
 #Command Reference
 This is the command reference for Lorian Version 1.6. You can find more elaborative information here on each of the commands currently implemented.
-
+!!! tip
+    On the bot you cannot change the prefix, with the bot, you must edit the config, if you are using the lorian bot please use `??` as that is the default prefix.
 !!! tip
     If you have a need for any further info, you can send the message {prefix}help <command> to the bot to get info about the command.
-
-The prefix is not specified in this reference. You have to apply your own prefix to the commands. If you don't know the prefix, type `@lorian prefix` in the server you're using.
 
 Another thing to note is that some commands will have an empty `Usage` field on this page. This means that the command takes no arguments and is accepted as such.
 
 Usage with <> are required, [] are optional.
 
 ##Command reference
-
+!!! tip
+    Some of these commands are not in currently with this version of lorian, Some have been removed, some commands will stay as I plan to add them to either the basic bot or sqlite bot version.
 ###General Commands
 
-| Name | Description | Usage | Required permission |
-| ---- | ----------- | ----- | ------------------- |
-| invite | Invite me to your server | None | None |
-| ram | Check my ram usage | None | None |
-| submit | Submit ideas or bugs to a server | <idea/bug\>\|\[text\]| None |
-| idea | Submit ideas or bugs for me | None | None |
-| ping | Check the bot's connection speed | None | None |
-| prefix | Find out my prefix | None | None |
+| Name | Description | Usage | Required permission | In Bot / Planed |
+| ---- | ----------- | ----- | ------------------- | --------------- |
+| invite | Invite me to your server | None | None | Planed |
+| submit | Submit ideas or bugs to a server | <idea/bug\>\|\[text\]| None | Planed |
+| ping | Check the bot's connection speed | None | None | In Bot |
+| prefix | Find out my prefix | None | None | Default ??, not in |
 
 ###Fun Commands
+
+All Fun and Tag commands, are not currently added, and will be added soon.
 
 | Name | Description | Usage | Required permission |
 | ---- | ----------- | ----- | ------------------- |
@@ -50,32 +50,20 @@ Usage with <> are required, [] are optional.
 | tag list | List all of you're or someones tags | <tag\> | None |
 | tag raw | Get raw tag info | <tag\> | None |
 
-###Ticket Commands
-
-| Name | Description | Usage | Required permission |
-| ---- | ----------- | ----- | ------------------- |
-| tickets | I'll give you the ticket help menu | None | None |
-| ticket create | Create a ticket for the server you are in | <text\|priority\> | None |
-| ticket close | Close your ticket | <ticket id\> | None |
-| ticket reply | Reply to a ticket | <ticket id\> <text\> | None |
-| ticket join | Join a ticket as an agent | <ticket id\> | manage_messages |
-
-!!! note
-    Tickets must be setup be for using. Tickets also will only work in a server, except reply.
-    Reply and close has a special perm setup, If a user is either the author, agent or someone with manage_guild they may close or reply.
-
 ###Moderation Commands
 
-| Name | Description | Usage | Required permission |
-| ---- | ----------- | ----- | ------------------- |
-| kick | I'll kick the given users | <users\> | kick_members |
-| ban | I'll ban the given users | <users\> | ban_members |
-| clear | I'll remove messages matching the specified criteria | \[user\] <amount\> | manage_messages |
-| clearch | I'll clear an entire channel | None | manage_channels |
-| mute | Mute a user for a set amount of time | <user\(s\)\>[time] | manage_messages |
-| unmute | Unmute a muted user | <user\(s\)\> | manage_messages |
+| Name | Description | Usage | Required permission | In Bot / Planed |
+| ---- | ----------- | ----- | ------------------- | --------------- |
+| kick | I'll kick the given users | <users\> | kick_members | in |
+| ban | I'll ban the given users | <users\> | ban_members | in |
+| clear | I'll remove messages matching the specified criteria | \[user\] <amount\> | manage_messages | Planed |
+| clearch | I'll clear an entire channel | None | manage_channels | Planed |
+| mute | Mute a user for a set amount of time | <user\(s\)\>[time] | manage_messages | in |
+| unmute | Unmute a muted user | <user\(s\)\> | manage_messages | in |
 
 ###Setting commands
+!!! tip
+    Settings commands will not be in the basic version.
 
 | Name | Description | Usage | Required permission |
 | ---- | ----------- | ----- | ------------------- |

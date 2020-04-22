@@ -13,6 +13,6 @@ test:
     - mkdocs build --clean --verbose
 deployment:
   production:
-    branch: master
+    branch: docs
     commands:
       - mkdocs gh-deploy
