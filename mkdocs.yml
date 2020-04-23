@@ -26,5 +26,7 @@ plugins:
 
 nav:
   - Home: 'index.md'
-  - Command Reference: 'commands.md'
+  - Commands:
+    Command Reference: 'commands.md'
+    Planed Commands: 'commandsplaned.md'
 
