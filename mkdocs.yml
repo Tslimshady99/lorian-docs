@@ -26,7 +26,5 @@ plugins:
 
 nav:
   - Home: 'index.md'
-  - Commands:
-    - Command Reference: 'commands.md'
-    - Custom Commands: 'custom_commands.md'
+  - Command Reference: 'commands.md'
 
