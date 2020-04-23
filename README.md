@@ -6,9 +6,7 @@
 Lorian is a multifunction Discord bot system intended to be able to perform various tasks, ranging from easy server moderation \(Kick, ban, mute\) to having fun \(8ball, memes\) in your Discord server. It will have an extensive per-server customization system with various settings.
 
 ### Stats
-
-[![Discord Bots](https://discordbots.org/api/widget/status/405845656188747796.svg?noavatar=true)](https://discordbots.org/bot/405845656188747796) [![Discord Bots](https://discordbots.org/api/widget/servers/405845656188747796.svg?noavatar=true)](https://discordbots.org/bot/405845656188747796) [![Discord Bots](https://discordbots.org/api/widget/upvotes/405845656188747796.svg?noavatar=true)](https://discordbots.org/bot/405845656188747796) [![Discord Bots](https://discordbots.org/api/widget/lib/405845656188747796.svg?noavatar=true)](https://discordbots.org/bot/405845656188747796)
-[![CircleCI](https://circleci.com/gh/Tslimshady99/docs.svg?style=svg)](https://circleci.com/gh/Tslimshady99/docs)
+[![CircleCI](https://circleci.com/gh/Tslimshady99/docs.svg?style=svg)](https://circleci.com/gh/Tslimshady99/lorian-docs)
 
 ## Brief history
 
