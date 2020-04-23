@@ -26,7 +26,7 @@ jobs:
           command: python3 -m pip install --upgrade -r requirements.txt
       - add_ssh_keys:
           fingerprints:
-              - "11:01:09:3e:22:0e:f3:8e:9a:33:3e:e7:8c:7c:aa:94"
+              - "5d:a4:90:70:8d:45:7c:ff:06:71:48:82:dc:be:d6:02"
       - run:
           name: Deploy docs
           command: |
