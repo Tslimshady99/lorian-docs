@@ -1,17 +1,6 @@
 ersion: 2
 
 jobs:
-  sentry-association:
-    docker:
-      - image: getsentry/sentry-cli
-    steps:
-      - checkout
-      - run:
-          name: Assosiate commits with Sentry
-          command: |
-            VERSION=$(sentry-cli releases propose-version)
-            sentry-cli releases new -p wildbeast $VERSION
-            sentry-cli releases set-commits --auto $VERSION
   docs-build-test:
     docker:
       - image: anthonyz/python3-node8:latest
@@ -23,12 +12,6 @@ jobs:
       - run:
           name: Install Python dependencies
           command: python3 -m pip install --upgrade -r requirements.txt
-      - run:
-          name: Install Node dependencies
-          command: npm install
-      - run:
-          name: Build docs
-          command: npm run build
 
   docs-deploy:
     docker:
